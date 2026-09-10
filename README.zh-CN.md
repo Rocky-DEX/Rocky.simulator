@@ -1,3 +1,9 @@
+> **本仓库已迁移。** canton-sim 现在位于
+> [Rocky-DEX/Canton-Assurance-Layer](https://github.com/Rocky-DEX/Canton-Assurance-Layer)
+> 的 `rust/sim-*`，文档在 `docs/simulator/`，Development Fund 提案在
+> `docs/grant/simulator/`，托管控制台里也有对应页面。完整的提交历史已一并迁移。
+> 这里不再维护；issue 与 pull request 请到新仓库提交。
+
 <h1 align="center">canton-sim</h1>
 
 <p align="center">

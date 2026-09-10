@@ -1,3 +1,10 @@
+> **This repository has moved.** canton-sim now lives in
+> [Rocky-DEX/Canton-Assurance-Layer](https://github.com/Rocky-DEX/Canton-Assurance-Layer)
+> under `rust/sim-*`, with its documentation at `docs/simulator/`, the
+> Development Fund proposals at `docs/grant/simulator/` and a page in the
+> hosted console. The full commit history was carried over. Nothing here is
+> maintained any more; please open issues and pull requests there.
+
 <h1 align="center">canton-sim</h1>
 
 <p align="center">
